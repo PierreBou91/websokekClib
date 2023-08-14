@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Binaries
+*.exe
+*.out
+
+# Dependency files
+*.d
+
+# Temporary/Backup files
+*~
+*.bak
+
+# Other generated files
+*.log
+*.swp
