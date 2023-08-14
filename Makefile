@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror -pedantic -std=c18
-TARGET = main
+TARGET = main.out
 
 SRCS = main.c websokekclib.c
 OBJS = $(SRCS:.c=.o)
